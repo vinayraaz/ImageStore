@@ -106,4 +106,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         cursor.moveToFirst();
         return cursor.getString(column_index);
     }
+    public void A(){
+        
+    }
 }
