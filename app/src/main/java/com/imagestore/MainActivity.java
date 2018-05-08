@@ -107,6 +107,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return cursor.getString(column_index);
     }
     public void A(){
-        
+
     }
 }
