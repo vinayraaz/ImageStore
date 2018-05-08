@@ -189,5 +189,9 @@ public class Gallery_Image_Activity extends Activity implements View.OnClickList
 
     }
 
+    public void test(){
+
+    }
+
 
 }
